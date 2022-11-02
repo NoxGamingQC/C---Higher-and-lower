@@ -2,9 +2,9 @@
 
 _**Higher or lower. Coded in C**_
 
-> This is currently a console application.
+This is currently a console application.
 
-The goal is the following.
+## The goal
 
 1. The computer randomly draws a number between 1 and 100.
 2. He asks you to guess the number. So you enter a number between 1 and 100.
@@ -14,4 +14,11 @@ mystery number is higher or lower than the one you entered.
 5. …And it tells you if the mystery number is higher or lower.
 6. And so on, until you find the mystery number.
 
-The object of the game, of course, is to find the mystery number in as few moves as possible.
+The goal of the game, of course, is to find the mystery number in as few moves as possible.
+
+## To do
+
+* [X] Make the base game.
+* [ ] Make use of the SDL library.
+* [ ] Add possiblity to choose the range of numbers.
+* [ ] Add language option.
