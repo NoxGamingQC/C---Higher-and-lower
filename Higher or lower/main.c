@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-void pause();
-
 int main(int argc, char* argv[])
 {
 	const MAX_NUMBER = 100, MIN_NUMBER = 1;
