@@ -1,6 +1,8 @@
 # Higher or lower
 
-Higher or lower. Coded in C
+_**Higher or lower. Coded in C**_
+
+> This is currently a console application.
 
 The goal is the following.
 
